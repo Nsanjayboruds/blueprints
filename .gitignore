@@ -1,5 +1,4 @@
 # Common
-**/.env
 Thumbs.db
 .DS_Store
 .gradle
@@ -7,7 +6,6 @@ build/
 target/
 out/
 .idea
-.vscode
 *.iml
 *.ipr
 *.iws
@@ -19,3 +17,5 @@ out/
 # Custom
 .wip
 *.py
+config.bat
+node_modules
